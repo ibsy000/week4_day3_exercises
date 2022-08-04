@@ -1,0 +1,40 @@
+rewatch 1:50
+
+submitted around 300 applications
+maybe got interviewed by 5 companies
+
+Big O notation
+there are best, worst, average case scenarios
+most of the time it's talking about the worst case scenario
+what would be the time complexity of it
+usually when you talk about it these days it's about time complexity
+big O notation is a way to track how quickly the run-time grows relative
+to the size of the input
+
+constant time
+o(1) means that it takes a constant time to run an algorithm, 
+regardless of the size of the input
+examples:
+math operations
+accessing an array via the index
+accessing a hash via the key
+pushing and popping on a stack
+insertion and removal from a queue
+returning a vlue from a function
+
+o(n) Linear Time
+means that the reun-time increases at the same pace as the input
+examples:
+lists
+map
+filter
+reduce
+
+o(n**2) means that the calculation runs in quadratic time
+
+examples
+bubble sort
+insertion sort
+
+seeing two nested loops is typically a good indicator that the piece of code
+
